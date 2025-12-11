@@ -1,9 +1,9 @@
 <h1 align="center"> 
     <a href="https://rajathpi.github.io/space-shooter/">Space Shooter</a>  
-    <img src="https://em-content.zobj.net/source/microsoft-teams/337/rocket_1f680.png" width="70" align="center">
+   
 </h1>
 
->
+
 
 <p>
 </p>
