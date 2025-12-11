@@ -12,12 +12,6 @@
 
 
 
-## **Installation**
-
-1) Install [CodeBlocks](https://www.codeblocks.org/downloads/binaries/)<br>
-2) Insall [OpenGL](https://www.transmissionzero.co.uk/software/freeglut-devel/)<br>
-
-
 ## **Game Description**
 
 *Keybord control for PLAYER 1* : 
